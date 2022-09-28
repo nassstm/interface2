@@ -1,5 +1,5 @@
 public interface Instrument
 {
-    String KEY = "До мажор";
+    String KEY = "Ля минор";
     void play();
 }
